@@ -1,0 +1,58 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/FeAuv7w.jpg",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<TextStyle.Red>1 Bienvenue</>",
+                    "title1": "Bienvenue ches les Chevaucheurs de Dodo!",
+                    "text1": "Un Dodo n'a jamais froid, la fin du monde ne passera pas !\nTous prêts pour l'ère glaciaire !\nLes Dodos ne renonceront pas !\nL'instinct de survie distingue le Dodo de l'adverse.",
+                    "imageurl": "https://i.imgur.com/FeAuv7w.jpg"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "2 Setting",
+                    "title1": "Reglage Serveur",
+                    "title2": "Mods",
+                    "text1": "XP x2\nRecolte x5\nTaming x5\nPassif x0.5\nReproduction x25\nIntervale de reproduction x0.1\nImprint Amount x10\nStack x10\nDino LvL 50->150\nAuto Engrams\n Poids Joueurs+Dino x5\nMindwipe Illimité",
+                    "text2": "Automated Ark\nUtilities Plus\nSuper Spyglass Plus\nBetter Torches\n AP: Death Recovery\n Custom Dino Levels\nDino Mindwipe\nSolo Farm Mod\nWBUI2",
+                    "imageurl": "https://i.imgur.com/FeAuv7w.jpg"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.com/invite/c67CgVXn45"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Dododex",
+                    "url": "https://www.dododex.com/"
+                }
+            },
+            {
+                "link3": {
+                    "text": "Wiki Ark",
+                    "url": "https://ark.wiki.gg/fr/wiki/ARK_Wiki"
+                }
+            }
+        ]
+    }
+}
