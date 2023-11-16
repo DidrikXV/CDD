@@ -3,7 +3,7 @@
         "settings": {
             "OpenButton": 0,
             "HideIcon": true,
-            "HideIconAfter": 30,
+            "HideIconAfter": 15,
             "IconURL": "https://i.imgur.com/OZ6xOjY.png",
             "DisableIconText": false,
             "IconPosition": 0,
@@ -28,8 +28,8 @@
                     "buttontext": "2 Setting",
                     "title1": "Reglage Serveur",
                     "title2": "Mods",
-                    "text1": "XP x2\nRecolte x5\nTaming x5\nPassif x0.5\nReproduction x10\nIntervale de reproduction x0.1\nImprint Amount x5\nStack x25\nDino LvL 50->150\nAuto Engrams\nPoids Joueurs+Dino x5\nMindwipe Illimité",
-                    "text2": "K+ ASA\nUtilities Plus\nSolo Farm Mod\nTranqz+\nBetter Torches\nSuper Spyglass Plus\nDino MindWipe\nAP: Death Recovery\nCustom Dino Levels\nWBUI2",
+                    "text1": "XP x2\nRecolte x5\nTaming x5\nPassif x0.5\nReproduction x10\nIntervale de reproduction x0.05\nImprint Amount x5\nStack x25\nDino LvL 50->150\nAuto Engrams\nPoids Joueurs+Dino x5\nMindwipe Illimité",
+                    "text2": "K+ ASA\nArkitect Structures Remastered\nUtilities Plus\nSolo Farm Mod\nTranqz+\nBetter Torches\nSuper Spyglass Plus\nDino MindWipe\nDeath Inventory Keeper\nCustom Dino Levels\nWBUI2",
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             }
